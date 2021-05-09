@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     taylor
-zhihu_username:     taylor
-github_username:    taylor
-twitter_username:   taylor
+weibo_username: taylor
+zhihu_username: taylor
+github_username: taylor
+twitter_username: taylor
 #facebook_username:  taylor
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: taylor
 
 # Netease settings
 netease_comment: false
