@@ -4,7 +4,7 @@ title:      "Packet Send to CPU"
 subtitle:   " \"Packet from Switch Send to CPU\""
 date:       2021-05-13 17:30:00
 author:     "taylor"
-header-img: ""
+header-style: "text"
 catalog: true
 tags:
     - switch
