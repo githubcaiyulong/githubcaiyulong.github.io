@@ -47,6 +47,7 @@ KNET interface收到报文再将报文送到内核协议栈。
 ![netiftokernel](https://user-images.githubusercontent.com/49511529/118103911-08ca9200-b40d-11eb-8357-ca6b9eaf6006.jpg)  
 ## Broadcom Linux Driver
 在opennsl-moudles.service中加载。  
+
 ```  
 [Unit]
 Description=Opennsl kernel modules init
